@@ -16,7 +16,7 @@
 #
 # # Функция для создания подключения к базе данных
 # def get_db_connection():
-#     conn = psycopg2.connect(host='localhost', user='postgres', password='10121991', dbname='kapinuss')
+#     conn = psycopg2.connect(host='localhost', user='postgres', password='password', dbname='name')
 #     return conn
 #
 # # @app.on_event("startup")
