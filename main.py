@@ -7,7 +7,7 @@
 #
 # # Параметры подключения к базе данных PostgreSQL
 #
-# # DATABASE_URL = psycopg2.connect(host='localhost', user='postgres', password='10121991', dbname='kapinuss')
+# # DATABASE_URL = psycopg2.connect(host='localhost', user='postgres', password='password', dbname='name')
 # # Модель данных для пользователя
 # class User(BaseModel):
 #     login: str
