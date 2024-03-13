@@ -2,7 +2,7 @@ import psycopg2
 
 
 # Подключение к БД
-conn = psycopg2.connect(host='localhost', user='postgres', password='10121991', dbname='kapinuss')
+conn = psycopg2.connect(host='localhost', user='postgres', password='password', dbname='name')
 cursor = conn.cursor()
 
 # Создание таблицы
